@@ -1,6 +1,3 @@
-# secure-password-system
-Python-based password security system using hashing and encryption
-
 # Secure Password & Data Protection System
 This project demonstrates a Python-based password security system
 using cryptographic techniques.
